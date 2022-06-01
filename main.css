@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.navbar-brand{
+    margin-left: 150px;
+}
+.collapse-navbar-collapse{
+    margin-right: 200px !important;
+}
+.link-danger{
+    text-decoration: none;
+    margin-left: 0 !important;
+}
+.rounded-float-start-ms-5-col-3-col-md-3{
+    margin-right: 0px;
+}
